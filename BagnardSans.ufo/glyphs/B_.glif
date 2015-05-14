@@ -15,7 +15,7 @@
       <point x="154" y="667"/>
       <point x="154" y="667" type="curve"/>
       <point x="306" y="667" type="line" smooth="yes"/>
-      <point x="367.85" y="667"/>
+      <point x="368" y="667"/>
       <point x="415" y="668"/>
       <point x="452" y="648" type="curve"/>
       <point x="491" y="629"/>
@@ -68,8 +68,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

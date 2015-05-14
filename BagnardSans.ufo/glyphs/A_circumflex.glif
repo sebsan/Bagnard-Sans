@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Agrave" format="1">
+<glyph name="Acircumflex" format="1">
   <advance width="748"/>
-  <unicode hex="00C0"/>
+  <unicode hex="00C2"/>
   <outline>
     <component base="A"/>
-    <component base="grave.uc" xOffset="-85" yOffset="239"/>
+    <component base="circumflex.uc" xOffset="-7" yOffset="239"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

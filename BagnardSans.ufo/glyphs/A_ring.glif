@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Atilde" format="1">
+<glyph name="Aring" format="1">
   <advance width="748"/>
-  <unicode hex="00C3"/>
+  <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="tilde.uc" xOffset="189" yOffset="316"/>
+    <component base="ring.uc" xOffset="148" yOffset="298"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

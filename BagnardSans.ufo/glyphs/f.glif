@@ -22,15 +22,14 @@
       <point x="294" y="645"/>
       <point x="312" y="614" type="curve"/>
       <point x="347" y="653" type="line"/>
-      <point x="290.885" y="733"/>
+      <point x="291" y="733"/>
       <point x="76" y="695"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
