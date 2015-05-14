@@ -1,4 +1,4 @@
-##Bagnard
+##Bagnard Sans
 
 Bagnard was inspired by the graffitis of an anonymous prisoner of the napoleonic wars.
 
