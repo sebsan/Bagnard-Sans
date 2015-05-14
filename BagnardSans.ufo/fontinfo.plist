@@ -11,21 +11,21 @@
 	<key>descender</key>
 	<integer>-225</integer>
 	<key>familyName</key>
-	<string>Bagnard</string>
+	<string>Bagnard Sans</string>
 	<key>macintoshFONDName</key>
-	<string>Bagnard</string>
+	<string>BagnardSans</string>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2015/04/25 20:16:11</string>
 	<key>openTypeNameCompatibleFullName</key>
-	<string>Bagnard</string>
+	<string>BagnardSans</string>
 	<key>openTypeNameDesigner</key>
-	<string>Sebastien Sanfilippo</string>
+	<string>Sebastien Sanfilippo, Doug Thomas, Chris Fodge, May Kim</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>www.love-letters.be</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Bagnard</string>
+	<string>Bagnard Sans</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameVersion</key>
@@ -92,11 +92,11 @@
 		<integer>489</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Bagnard</string>
+	<string>BagnardSans</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>Bagnard</string>
+	<string>BagnardSans</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
